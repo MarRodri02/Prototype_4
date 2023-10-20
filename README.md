@@ -24,3 +24,5 @@ Primero mejoraremos el Spawn Manager del enemigo para permitir que genere varios
 ### Resultado del proyecto:
 El Spawn Manager operará en oleadas y generará varios enemigos y un nuevo potenciador con cada iteración. Cada vez que la cantidad de enemigos llegue a cero, se generará una nueva oleada y aumentará la cantidad de enemigos.
 
+Tablero [Trello](https://trello.com/invite/b/0lQT9RcI/ATTIf418c09484e2e493e5cf59f7b6b4885aC1F6D11B/videojuego)
+
